@@ -10,6 +10,10 @@ set splitbelow
 set splitright
 set smartcase
 set bg=dark
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set inccommand=split " Live preview of :s result
 
 " -----------------------------------------------------------------------------
 " Mappings:
